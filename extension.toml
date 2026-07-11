@@ -1,0 +1,7 @@
+id = "inklight"
+name = "Inklight"
+version = "0.1.0"
+schema_version = 1
+authors = ["Matthew Laufer <matthew.j.laufer@gmail.com>"]
+description = "Inklight is a light medium-contrast theme."
+repository = "https://github.com/mjlaufer/inklight-zed"
